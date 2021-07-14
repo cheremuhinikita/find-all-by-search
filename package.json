@@ -1,0 +1,16 @@
+{
+	"name": "find-all-by-search",
+	"version": "1.0.0",
+	"repository": "https://github.com/m0jisto/find-all-by-search.git",
+	"author": "Nikita <cheremuhinikita@mail.ru>",
+	"license": "MIT",
+	"scripts": {
+		"test": "jest"
+	},
+	"devDependencies": {
+		"jest": "^27.0.6"
+	},
+	"dependencies": {
+		"axios": "^0.21.1"
+	}
+}

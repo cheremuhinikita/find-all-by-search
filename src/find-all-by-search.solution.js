@@ -1,0 +1,1 @@
+module.exports = (o,r,e)=>o.filter((o=>r.some((r=>{const s=o[r];if("string"!=typeof s)throw new Error("Property is not string");return s.includes(e)}))));
